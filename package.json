@@ -1,0 +1,22 @@
+{
+  "namespace": "multiplechain",
+  "name": "@multiplechain/utils",
+  "version": "0.1.1",
+  "description": "Blockchain general utils",
+  "main": "utils.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultipleChain/utils-js.git"
+  },
+  "author": "MultipleChain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MultipleChain/utils-js/issues"
+  },
+  "homepage": "https://github.com/MultipleChain/utils-js",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "bignumber.js": "^9.1.1",
+    "web3-utils": "^1.8.2"
+  }
+}
